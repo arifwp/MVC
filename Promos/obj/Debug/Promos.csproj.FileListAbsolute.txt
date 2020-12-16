@@ -1,0 +1,16 @@
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\bin\Debug\Promos.exe.config
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\bin\Debug\Promos.exe
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\bin\Debug\Promos.pdb
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\MainWindow.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Penawaran.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\App.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\MainWindow.baml
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Penawaran.baml
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos.g.resources
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos.exe
+D:\TUGAS\Semester 3\Pemrograman Lanjut\Promos\obj\Debug\Promos.pdb
